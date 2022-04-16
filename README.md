@@ -43,12 +43,18 @@ Memory Tokens (changes needed)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Bug Relay
+Bug Relay
+ 
 This event will be the final stage of the event where all teams have to complete the previous three games to participate.
+
 Programs will be provided to each team where one member will have to debug the code at a time in relay format till all bugs are resolved. All provided programs will have the same number of bugs of moderate resolution difficulty.
+
 The first team to get the program running gets a point. First to three points wins.
+
 In case three pointers turn out to be an unlikely scenario, the most points wins.
+
 In case all the teams get totally stuck like they did in certain stages of init(), points will be awarded at the end of a timer based on how many bugs they correctly identified.
+
 If none of the above scenarios occurred, god help us all.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
