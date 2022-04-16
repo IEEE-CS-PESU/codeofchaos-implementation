@@ -37,8 +37,9 @@ Make announcements for top teams and distribute goodies after every game.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Memory Tokens (changes needed)
--     The classic 5x5 tile game with 12 pairs of images +1. If u match a pair of images, u get the image as an NFT which u can save in your wallet.
--    They will have roughly 30 seconds to solve this game. Now by example, if they get 3 pairs of images, they have to decensor the rest 9 images. So more tiles a team gets in those 30 seconds, the fewer images they have to decensor in the second part of this level. Moreover, each image will carry a token value of let’s say 2 IEEE CS tokens. Then the number of images they get in the tile game will be added to the wallet.
+
+- The classic 5x5 tile game with 12 pairs of images +1. If u match a pair of images, u get the image as an NFT which u can save in your wallet.
+- They will have roughly 30 seconds to solve this game. Now by example, if they get 3 pairs of images, they have to decensor the rest 9 images. So more tiles a team gets in those 30 seconds, the fewer images they have to decensor in the second part of this level. Moreover, each image will carry a token value of let’s say 2 IEEE CS tokens. Then the number of images they get in the tile game will be added to the wallet.
     -    Coming to the second part, all the images will be modified a lot via image processing which they have to reverse and get the original image. This all will be done in a stipulated time. The tokens would be awarded on the extent of which the reversed image looks similar to the original.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
