@@ -1,4 +1,4 @@
-Qs
+Qs (no user input in any of the questions. Wherever the question is framed to indicate the same, hardcode the values initially)
 
 - Write a program to print numbers from 1 to 10.
 - Write a program to calculate the sum of first 10 natural number.
