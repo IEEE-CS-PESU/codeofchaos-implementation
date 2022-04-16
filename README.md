@@ -1,4 +1,5 @@
 # Writeup & resources to implement the Code of Chaos event for AT '22
+## It's recommended that this repo be made public after the event to let the losing teams know where they went wrong
 
 Sub-games :
 - Introduction to Bhai-Lang (unassigned) [PENDING]
@@ -18,10 +19,9 @@ Provide conditional and loop exercises to be executed in bhai lang
 These programs must have subtle cases where competitors will be likely to make silly mistakes. E.g. simulate a complex finitevstate machine 
 https://github.com/DulLabs/bhai-lang
 
-A chinese Whispers game based on whispering brainfuck code and its English counterpart  between the teams interchangeably.
-https://gist.github.com/roachhd/dce54bec8ba55fb17d3a
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 a series of games based on code 
+
 https://www.codingame.com/multiplayer/clashofcode
 
 Clash of Code is a 5 min coding game with a global leaderboard. Club can create its own private clash for the teams.
