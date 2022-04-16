@@ -2,14 +2,13 @@
 ## It's recommended that this repo be made public after the event to let the losing teams know where they went wrong
 
 Sub-games :
-- Introduction to Bhai-Lang (assigned to Sriram Radhakrishna) [PENDING]
+- Introduction to Bhai-Lang (assigned to Sriram Radhakrishna) [DONE]
 - Clash of Code (assigned to Srividya Prasad) [DONE]
 - Memory tokens (assigned to Kohav Dey) [PENDING]
 - Bug relay (assigned to Sriram Radhakrishna) [DONE]
 
 Supporting resources :
 - Power cards (assigned to Manisha Reddy) [PENDING]
-- Codinero integration into the game (unassigned) [PENDING]
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 General notes :
