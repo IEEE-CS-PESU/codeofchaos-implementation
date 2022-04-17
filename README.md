@@ -8,7 +8,7 @@ Sub-games :
 - Bug relay (assigned to Sriram Radhakrishna) [DONE]
 
 Supporting resources :
-- Power cards (assigned to Manisha Reddy) [PENDING]
+- Power cards (assigned to Manisha Reddy) [DONE]
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 General notes :
