@@ -71,26 +71,25 @@ The wheel is spun by any team that completes a sub-game before the allocated tim
 
 They can be used to ...
 
-stop a specific team from working for N minutes
+1. Freezes a specific team from working for N minutes
 
-Socrates’ Stars - wheel spinner chooses a team to be made a pauper where the defendant & accuser make their cases with minute long speeches followed by a vote from all the other teams to determine the verdict (if the defendant wins, the accuser suffers the same verdict)
+2. Diogenes’ Dilemma I/II - loot a specific/random team of N% of their coins (another wheel can be spun to decide N)
 
-stop a random team from working for N minutes
+3. Get any specific team out of a confinement (can be used by a team currently in confinement)
 
-confine a team to a slow & buggy computer with a broken keyboard for N minutes
+4. Escape card
 
-Diogenes’ Dilemma I/II - loot a specific/random team of N% of their coins (another wheel can be spun to decide N)
+5. Russian Revolution - redistribute all teams’ wealth equally among all the teams (very small probability on the wheel, can’t be used in the last game)
 
-get any specific team out of a confinement (can be used by a team currently in confinement)
+6. a clue coupon that can be used at any point for more than necessary help from the mentors
 
-Russian Revolution - redistribute all teams’ wealth equally among all the teams (very small probability on the wheel, can’t be used in the last game)
+7. Problem giveaway card
 
-The American Dream - counter card for the previous card which should be spun for within 5 minutes of a Russian Revolution (teams can pool in coins for this)
+8. Change screen orientation 
 
-a clue coupon that can be used at any point for more than necessary help from the mentors
+9. Socrates’ Stars - wheel spinner chooses a team to be made a pauper where the defendant & accuser make their cases with minute long speeches followed by a vote from all the other teams to determine the verdict (if the defendant wins, the accuser suffers the same verdict)
 
-problem giveaway card
-
+10. Double or nothing card
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
