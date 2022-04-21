@@ -64,7 +64,7 @@ void toggleLights()
   if (Serial.available() = 0) // = is not a conditional
   {
     Serial.println("serial available");
-    l1 = Serial.parseint(); // 'parseInt', not 'parseint'
+    l1 = Serial.parseInt(); 
     if (l1 == 1)
     {
       digitalWrite(lightPin1, HIGH);
